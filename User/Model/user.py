@@ -20,3 +20,5 @@ class user():
         except Exception as error:
             print(error)
             save.close()
+
+# 3     os.path.join() ist eine Funktion von os, die dir hilft, den Pfad zu einer Datei zu erstellen.
